@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @kishore779
-- 👀 I’m interested in cricket
-- 🌱 I’m currently learning ml
-- 💞️ I’m looking to collaborate on nthg
-- 📫 How to reach me through phone
-- 😄 Pronouns: as long as i live there are infinite chances
-- ⚡ Fun fact: jooker
+
 
 
 <!---
